@@ -1,104 +1,98 @@
-# 👋 Hello, I'm Mike!
+# 👋 Hey there, I'm Mike!
+
 Welcome to my GitHub profile! I'm a Software Engineer with a passion for building creative and scalable solutions. With hands-on experience in both frontend and backend development, I enjoy working on diverse projects that challenge me to grow and make an impact.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="400"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWV0azk0ZHlqN2tybmthM3JrZmRjbWMyaGE2NzM0MnkzMm16dnlkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9az09tlYyYNfq/giphy.webp" width="400"/>
 </p>
 
-## 🌟 About Me
+## 🌟 Tech Stack
 
-- 🎓 **Education**:  
-  Bachelor of Science in Computer Science from Saint Mary’s University (2020 – 2024)
-  
-- 🛠️ **Tech Stack**:  
-  **Languages**: Python, HTML, CSS, JavaScript, TypeScript, SQL, Java, C++, C, C#  
-  **Frontend**: React, Bootstrap, Tailwind, jQuery  
-  **Backend**: Node.js, PostgreSQL, Neon, Django, Flask  
-  **Automation**: n8n, GitHub Actions  
-  **Developer Tools**: Git, VS Code, Visual Studio, Xcode, CMake, OpenGL  
-  **Operating Systems**: Windows, Linux, MacOS, Xv6  
-  **Cloud & DevOps**: Docker, CI/CD, AWS, Powershell  
-  **Networking Protocols**: DHCP, TCP, UDP, IP, SFTP, HTTP, HTTPS, DNS, SMTP
-
-- 📚 **Learning**:  
-  Currently exploring advanced web development
-  
-- 🎨 **Hobbies**:  
-  Outside of coding, I enjoy golf, fitness, and anything to do with technology.
-
-## 💼 Professional Experience
-
-### Software Engineer  
-**Play On! Canada** (Jun. 2024 – Sep. 2024) - Remote in Halifax, NS  
-- Create and manage registration and administrative systems for the world’s largest street hockey tournament.
-- Develop frontend applications using React and TypeScript, ensuring a smooth and responsive user interface.
-- Build and maintain backend services with Node.js, PostgreSQL, and Neon for efficient data handling.
-- Automate workflows with n8n to streamline and enhance operational processes.
-- Play a key role in a small, agile team, utilizing Scrum methodologies for effective project management.
-- Utilize GitHub for version control and project tracking, ensuring collaborative and high-quality code development.
-
-### Network Analyst  
-**Saint Mary’s University** (Oct. 2023 – Jun. 2024) - Halifax, NS  
-- Maintained and managed the university’s network infrastructure, ensuring consistent and reliable connectivity.
-- Developed and implemented strategies to optimize network performance, scalability, and security.
-- Diagnosed and resolved various network issues, minimizing downtime and ensuring uninterrupted access.
-- Conducted regular updates and applied patches to network equipment and software, ensuring security.
-- Collaborated with IT teams to integrate network solutions with the overall IT infrastructure.
-
-### Software Engineer  
-**French Village Woodland Conservation** (Sep. 2023 – Dec. 2023) - Halifax, NS  
-- Developed a fully functional website for a wildlife reserve using HTML, CSS, and JavaScript.
-- Collaborated with a team of students using GitHub for version control and project management.
-- Implemented donation acceptance, location services, and application/feedback features.
-- Enabled photo uploads, reviews for the gallery, and provided park history and FAQs.
-- Worked closely with the client to ensure the website met their specific requirements and preferences.
-
-### Mobile Application Developer  
-**Northwood** (Jan. 2022 – Apr. 2022) - Halifax, NS  
-- Developed a blog application for a Northwood resident with cerebral palsy using HTML, CSS, and JavaScript.
-- Integrated jQuery to provide dynamic and interactive features, enhancing user engagement.
-- Utilized MySQL for efficient data storage and management, ensuring backend support.
-- Collaborated with a team of students using GitHub for version control and coordinated project development.
-- Designed the application with a focus on accessibility, meeting specific client needs and usability requirements.
-
-## 🚀 Featured Projects
-
-| Project                                 | Description                                                                | Tech Stack                    |
-|-----------------------------------------|----------------------------------------------------------------------------|-------------------------------|
-| **Play On! Registration & Administration System** | Registration and administration system for a national street hockey tournament. | React, Node.js, PostgreSQL, n8n |
-| **Wildlife Reserve Website**            | Website for a wildlife reserve with donation and gallery features.          | HTML, CSS, JavaScript          |
-| **Northwood Blog App**                  | Accessible blog application for a resident with cerebral palsy.             | HTML, CSS, JavaScript, jQuery  |
-
-## 🛠 Technical Skills
-
-**Languages**: Python, HTML, CSS, JavaScript, TypeScript, SQL, Java, C++, C, C#, PHP  
-**Frameworks**: Node.js, Django, Flask, Bootstrap, Tailwind  
-**Libraries**: React, jQuery, Axios, Pandas, NumPy, Scikit-learn, Requests, Beautiful Soup  
-**Developer Tools**: Git, n8n, VS Code, Xcode, CMake, OpenGL  
-**Operating Systems**: Windows, Linux, MacOS, Xv6  
-**Applications**: Slack, Microsoft Office, WinSCP, PuTTy, Wireshark, Nagios  
-**Protocols**: DHCP, TCP, UDP, IP, SFTP, HTTP, HTTPS, SMTP, DNS, ARP  
-
-## 🏅 Certifications & Achievements
-
-- **Dean’s List** – Saint Mary’s University
-- **Co-Curricular Record** – Saint Mary’s University
-- **DELF B1** – Ministère de l’Éducation Nationale
-
-## 🌍 Let's Connect!
-
-I'm always open to new opportunities, collaborations, or just having a friendly chat. Feel free to connect!
-
-- [LinkedIn](https://www.linkedin.com/in/mikewarrenlink/)
-- [Email](mailto:mikewarren1125@gmail.com)
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miikewarren8&show_icons=true&theme=radical" alt="GitHub Stats" /> 
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miikewarren8&layout=compact&theme=radical" alt="Top Languages" />
+### 🖥️ **Languages**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="50" height="50"/>
 </p>
 
-Thanks for visiting my profile! Don’t forget to follow me for updates on my latest projects.
+### 🛠️ **Frameworks**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind" width="50" height="50"/>
+</p>
+
+### 🛠️ **Developer Tools**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/N8n_logo.png/640px-N8n_logo.png" alt="n8n" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/640px-Gnu-nano.svg.png" alt="Nano" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/xcode.png" alt="Xcode" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CMake_logo.svg/640px-CMake_logo.svg.png" alt="CMake" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/640px-Opengl-logo.svg.png" alt="OpenGL" width="50" height="50"/>
+</p>
+
+### 📚 **Libraries**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/JQuery_logo_text.svg/640px-JQuery_logo_text.svg.png" alt="jQuery" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/640px-Axios_%28computer_library%29_logo.svg.png" alt="Axios" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Requests-logo.png/640px-Requests-logo.png" alt="Requests" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Pygame_logo.gif/640px-Pygame_logo.gif" alt="PyGame" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" width="50" height="50"/>
+</p>
+
+### 🖥️ **Operating Systems**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="MacOS" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Xv6.png/640px-Xv6.png" alt="Xv6" width="50" height="50"/>
+</p>
+
+### 🛠️ **Applications**
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="Microsoft Office" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/WinSCP_6_Logo.png/640px-WinSCP_6_Logo.png" alt="WinSCP" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/640px-PuTTY_Icon.svg.png" alt="PuTTY" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/640px-Wireshark_icon_new.png" alt="Wireshark" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" alt="Nagios" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="Powershell" width="50" height="50"/>
+</p>
+
+## 💬 Let's Connect!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mikewarrenlink/) or [Email](mailto:mikewarren1125@gmail.com@) if you'd like to chat!
+
+## 📖 What I'm Learning
+I am currently invested in improving my advanced web development skills
+
+## 🎨 Hobbies
+Outside of coding I enjoy golf, fitness, and anything related to tech
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miikewarren8&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miikewarren8&layout=compact&theme=radical)
+
+
+
+
+
+
 
