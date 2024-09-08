@@ -30,26 +30,36 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for buildin
 
 ### Software Engineer  
 **Play On! Canada** (Jun. 2024 – Sep. 2024) - Remote in Halifax, NS  
-- Developed and managed registration and administrative systems for the world’s largest street hockey tournament.
-- Built and maintained frontend applications using React and TypeScript for a responsive UI.
-- Created backend services with Node.js and PostgreSQL, and automated workflows with n8n.
-- Played a key role in an agile team using Scrum methodologies for effective project management.
-- Utilized GitHub for version control and project tracking.
+- Create and manage registration and administrative systems for the world’s largest street hockey tournament.
+- Develop frontend applications using React and TypeScript, ensuring a smooth and responsive user interface.
+- Build and maintain backend services with Node.js, PostgreSQL, and Neon for efficient data handling.
+- Automate workflows with n8n to streamline and enhance operational processes.
+- Play a key role in a small, agile team, utilizing Scrum methodologies for effective project management.
+- Utilize GitHub for version control and project tracking, ensuring collaborative and high-quality code development.
 
 ### Network Analyst  
 **Saint Mary’s University** (Oct. 2023 – Jun. 2024) - Halifax, NS  
-- Managed and optimized the university's network infrastructure to ensure reliable connectivity.
-- Diagnosed and resolved network issues while optimizing performance, scalability, and security.
+- Maintained and managed the university’s network infrastructure, ensuring consistent and reliable connectivity.
+- Developed and implemented strategies to optimize network performance, scalability, and security.
+- Diagnosed and resolved various network issues, minimizing downtime and ensuring uninterrupted access.
+- Conducted regular updates and applied patches to network equipment and software, ensuring security.
+- Collaborated with IT teams to integrate network solutions with the overall IT infrastructure.
 
 ### Software Engineer  
 **French Village Woodland Conservation** (Sep. 2023 – Dec. 2023) - Halifax, NS  
 - Developed a fully functional website for a wildlife reserve using HTML, CSS, and JavaScript.
-- Integrated donation systems, location services, and photo galleries to enhance the visitor experience.
+- Collaborated with a team of students using GitHub for version control and project management.
+- Implemented donation acceptance, location services, and application/feedback features.
+- Enabled photo uploads, reviews for the gallery, and provided park history and FAQs.
+- Worked closely with the client to ensure the website met their specific requirements and preferences.
 
 ### Mobile Application Developer  
 **Northwood** (Jan. 2022 – Apr. 2022) - Halifax, NS  
-- Developed a blog application for a resident with cerebral palsy using HTML, CSS, and JavaScript.
-- Focused on accessibility, ensuring the app met specific client usability needs.
+- Developed a blog application for a Northwood resident with cerebral palsy using HTML, CSS, and JavaScript.
+- Integrated jQuery to provide dynamic and interactive features, enhancing user engagement.
+- Utilized MySQL for efficient data storage and management, ensuring backend support.
+- Collaborated with a team of students using GitHub for version control and coordinated project development.
+- Designed the application with a focus on accessibility, meeting specific client needs and usability requirements.
 
 ## 🚀 Featured Projects
 
