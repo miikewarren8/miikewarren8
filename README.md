@@ -78,7 +78,7 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for buildin
 </p>
 
 ## 💬 Let's Connect!
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mikewarrenlink/) or [Email](mailto:mikewarren1125@gmail.com@) if you'd like to chat!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mikewarrenlink/) or [Email](mailto:mikewarren1125@gmail.com) if you'd like to chat!
 
 ## 📖 What I'm Learning
 I am currently invested in improving my advanced web development skills
