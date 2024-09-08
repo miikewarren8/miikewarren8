@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for buildin
   <img src="https://img.icons8.com/color/48/000000/php.png" alt="PHP" width="50" height="50"/>
 </p>
 
-### 🛠️ **Frameworks**
+### ⚙️ **Frameworks**
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" width="50" height="50"/>
@@ -41,7 +41,6 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for buildin
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/640px-Gnu-nano.svg.png" alt="Nano" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/xcode.png" alt="Xcode" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/CMake_logo.svg/640px-CMake_logo.svg.png" alt="CMake" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/640px-Opengl-logo.svg.png" alt="OpenGL" width="50" height="50"/>
 </p>
 
@@ -63,7 +62,6 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for buildin
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/mac-os.png" alt="MacOS" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Xv6.png/640px-Xv6.png" alt="Xv6" width="50" height="50"/>
 </p>
 
 ### 🛠️ **Applications**
@@ -76,6 +74,8 @@ Welcome to my GitHub profile! I'm a Software Engineer with a passion for buildin
   <img src="https://www.vectorlogo.zone/logos/nagios/nagios-icon.svg" alt="Nagios" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="Powershell" width="50" height="50"/>
 </p>
+
+
 
 ## 💬 Let's Connect!
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mikewarrenlink/) or [Email](mailto:mikewarren1125@gmail.com) if you'd like to chat!
