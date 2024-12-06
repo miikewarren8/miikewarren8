@@ -86,10 +86,6 @@ I am currently invested in improving my advanced web development skills
 ## 🎨 Hobbies
 Outside of coding I enjoy golf, fitness, and anything related to tech
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miikewarren8&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miikewarren8&layout=compact&theme=radical)
-
 
 
 
